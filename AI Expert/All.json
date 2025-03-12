@@ -1,0 +1,1281 @@
+[
+    {
+        "title": "Synergistic Catalysis of Metal-Organic Framework-Immobilized Au-Pd Nanoparticles in Dehydrogenation of Formic Acid for Chemical Hydrogen Storage",
+        "year": 2011,
+        "journal_name": "Journal of the American Chemical Society",
+        "corresponding_authors": [
+            {
+                "name": "Zhang-Hui Lu",
+                "address": "National Institute of Advanced Industrial Science and Technology (AIST), Ikeda, Osaka 563-8577, Japan"
+            },
+            {
+                "name": "Qiang Xu",
+                "address": "National Institute of Advanced Industrial Science and Technology (AIST), Ikeda, Osaka 563-8577, Japan; Graduate School of Engineering, Kobe University, Nada Ku, Kobe, Hyogo 657-8501, Japan"
+            }
+        ],
+        "catalyst_name": "Au-Pd/ED-MIL-101",
+        "synthesis_method": "Liquid impregnation method. Activated ED-MIL-101 (100 mg) was impregnated with deionized water (5 mL) containing HAuCl4 (50 mg) and H2PdCl4 (50 mg) at 35 \u00b0C for 24 h, and then the as-synthesized sample was treated in a stream of 1:1 H2/He at 200 \u00b0C for 3 h.",
+        "active_components": [
+            {
+                "element": "Au",
+                "loading": "Not specified, Au:Pd = 2.46"
+            },
+            {
+                "element": "Pd",
+                "loading": "Not specified, Au:Pd = 2.46"
+            }
+        ],
+        "promoters": [
+            "HCOONa"
+        ],
+        "support": "ED-MIL-101 (ethylenediamine (ED)-grafted MIL-101)",
+        "heat_treatment": {
+            "temperature": "200 \u00b0C",
+            "duration": "3 h",
+            "atmosphere": "1:1 H2/He"
+        },
+        "characterization": {
+            "techniques": [
+                "PXRD",
+                "N2 adsorption",
+                "ICP",
+                "TEM",
+                "HAADF-STEM",
+                "EDX",
+                "XPS"
+            ],
+            "results": "Bimetallic Au-Pd nanoparticles (NPs) were successfully immobilized in the metal-organic frameworks (MOFs). PXRD indicated formation of Au-Pd alloy. N2 adsorption showed decreased surface area and pore volume, indicating pore occupation. HAADF-STEM and EDX confirmed the uniform composition of Au-Pd alloy NPs. The sizes of Au-Pd NPs were in the range of 2-8 nm. XPS showed metallic Au and Pd."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "Not specified, 140 mg formic acid",
+            "other_additives": [
+                {
+                    "substance": "HCOONa",
+                    "concentration": "Not specified, 70 mg sodium formate"
+                }
+            ],
+            "temperature": "90 \u00b0C (primary), 80, 100 \u00b0C",
+            "pressure": "Atmospheric pressure"
+        },
+        "reactor_configuration": "Not specified",
+        "measurement_method": "Mass spectrometry (MS) after passing the gas through a 10 M NaOH solution trap",
+        "catalyst_performance": {
+            "activity": "Complete conversion of 140 mg formic acid in 65 min at 90 \u00b0C",
+            "selectivity": "100% (CO-free H2 generation)",
+            "stability": "Catalyst keeps its activity after subsequent additions of formic acid. Productivity of hydrogen remained almost unchanged after five runs."
+        }
+    },
+    {
+        "title": "Synergistic catalysis of AgPd@ZIF-8 on dehydrogenation of formic acid",
+        "year": 2015,
+        "journal_name": "Applied Catalysis B: Environmental",
+        "corresponding_authors": [
+            {
+                "name": "Wei Luo",
+                "address": "College of Chemistry and Molecular Sciences, Wuhan University, Wuhan, Hubei 430072, PR China"
+            },
+            {
+                "name": "Gongzhen Cheng",
+                "address": "College of Chemistry and Molecular Sciences, Wuhan University, Wuhan, Hubei 430072, PR China"
+            }
+        ],
+        "catalyst_name": "Ag18Pd82@ZIF-8",
+        "synthesis_method": "Liquid impregnation method. Activated ZIF-8 (100 mg) was added to 5 mL solution of AgNO3 (0.04 mmol) and H2PdCl4 (0.16 mmol), stirring for 24 h at 25 \u00b0C to impregnate metal salts. The resulting mixture was then reduced by sodium borohydride (NaBH4, 2 mmol) solution with vigorous stirring at 273 K.",
+        "active_components": [
+            {
+                "element": "Ag",
+                "loading": "Not specified directly, Ag/Pd ratio controlled by precursor ratio"
+            },
+            {
+                "element": "Pd",
+                "loading": "Not specified directly, Ag/Pd ratio controlled by precursor ratio"
+            }
+        ],
+        "promoters": [
+            "HCOONa"
+        ],
+        "support": "ZIF-8",
+        "heat_treatment": {
+            "temperature": "573 K (for ZIF-8 activation)",
+            "duration": "2 h (for ZIF-8 activation)",
+            "atmosphere": "Vacuum (for ZIF-8 activation)"
+        },
+        "characterization": {
+            "techniques": [
+                "TEM",
+                "EDX",
+                "PXRD",
+                "XPS",
+                "N2 adsorption/desorption",
+                "ICP-AES"
+            ],
+            "results": "Highly dispersed bimetallic AgPd nanoparticles. TEM images show AgPd NPs with a mean diameter of 1.6 \u00b1 0.2 nm, well dispersed and encapsulated in the cages of ZIF-8. HRTEM shows d-spacing of 0.226 nm, between Ag(111) and Pd(111), indicating alloy formation. PXRD shows a peak between Ag(111) and Pd(111), confirming alloy. XPS confirms the presence of metallic Ag and Pd. N2 adsorption shows decreased surface area and pore volume, indicating pore occupation."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "Not specified directly, 3 mmol FA",
+            "other_additives": [
+                {
+                    "substance": "HCOONa",
+                    "concentration": "Not specified directly, 1 mmol SF"
+                }
+            ],
+            "temperature": "353 K (80 \u00b0C, primary), 323-353 K (for kinetic studies)",
+            "pressure": "Ambient atmosphere"
+        },
+        "reactor_configuration": "Two-neck round-bottle flask",
+        "measurement_method": "Gas burette (volume of released gas)",
+        "catalyst_performance": {
+            "activity": "TOF = 580 h-1 at 80 \u00b0C",
+            "selectivity": "100% hydrogen selectivity",
+            "stability": "Catalytic reactions were repeated five times by adding another equivalent of FA into the mixture after the previous cycle.  95% AgPd still remain in the catalyst after 5th run."
+        }
+    },
+    {
+        "title": "Formation and stabilization of colloidal ultra-small palladium nanoparticles on diamine-modified Cr-MIL-101: Synergic boost to hydrogen production from formic acid",
+        "year": 2020,
+        "journal_name": "Journal of Colloid and Interface Science",
+        "corresponding_authors": [
+            {
+                "name": "Sadegh Rostamnia",
+                "address": "Organic and Nano Group (ONG), Department of Chemistry, Faculty of Science, University of Maragheh, PO BOX 55181-83111, Maragheh, Iran"
+            },
+            {
+                "name": "Asadollah Hassankhani",
+                "address": "Department of New Materials, Institute of Science and High Technology and Environmental Sciences, Graduate University of Advanced Technology, Kerman, Iran"
+            },
+            {
+                "name": "Xiao Liu",
+                "address": "Key Laboratory of Pesticide & Chemical Biology of the Ministry of Education, College of Chemistry, Central China Normal University, Wuhan 430079, PR China"
+            },
+            {
+                "name": "Amir Hasanzadeh",
+                "address": "Maragheh University of Medical Sciences, PO Box: 78151-55158, Maragheh, Iran"
+            },
+            {
+                "name": "Samad Khaksar",
+                "address": "School of Science and Technology, The University of Georgia, Tbilisi, Georgia"
+            },
+            {
+                "name": "Rajender S. Varma",
+                "address": "Regional Centre of Advanced Technologies and Materials, Department of Physical Chemistry, Faculty of Science, Palacky University, \u0160lechtitel\u016f 27, 783 71 Olomouc, Czech Republic"
+            },
+            {
+                "name": "Mohammadreza Shokouhimehr",
+                "address": "Department of Materials Science and Engineering, Research Institute of Advanced Materials, Seoul National University, Seoul 08826, Republic of Korea"
+            }
+        ],
+        "catalyst_name": "Pd@ED/Cr-MIL-101",
+        "synthesis_method": "Colloidal Pd NPs were synthesized. PdCl2 (20 mg) and polyvinyl alcohol (PVA monomer/PdCl2 = 9:1 M ratio) were mixed in 100 mL of DI-water and then were stirred for 60 min at 0 \u00b0C. 20 mL of freshly prepared 0.1 M of NaBH4 was added to the mixture to generate a colloidal Pd solution. The as-synthesized ED-Cr-MIL-101 (500 mg) was added to the Pd colloid solution immediately after the preparation. The mixture was stirred for 4 h and then was heated at 50 \u00b0C for 30 min, then cooled to ambient condition.",
+        "active_components": [
+            {
+                "element": "Pd",
+                "loading": "0.98 wt%"
+            }
+        ],
+        "promoters": [
+            "HCOONa"
+        ],
+        "support": "ED/Cr-MIL-101 (ethylene diamine (ED)-grafted Cr-MIL-101)",
+        "heat_treatment": {
+            "temperature": "50 \u00b0C (during synthesis), 120 \u00b0C (pre-catalyst drying)",
+            "duration": "30 min (during synthesis), 12 h (pre-catalyst drying)",
+            "atmosphere": "Not specified (during synthesis), Vacuum (pre-catalyst drying)"
+        },
+        "characterization": {
+            "techniques": [
+                "FTIR",
+                "XRD",
+                "SEM/EDX mapping",
+                "TEM",
+                "BET",
+                "AAS"
+            ],
+            "results": "Ultra-small nano-sized palladium particles were successfully stabilized within the pores of diamine groups grafted open metal site metal-organic frameworks of Cr-MIL-101. TEM images show a mean diameter of 1.8 \u00b1 0.8 nm. XRD shows broad peaks, indicating small size. FTIR confirms the presence of ED. SEM shows octahedral microcrystals."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "5% v/v",
+            "other_additives": [
+                {
+                    "substance": "HCOONa",
+                    "concentration": "Not specified directly, 1 mmol"
+                }
+            ],
+            "temperature": "Room temperature (primary), up to 328 K",
+            "pressure": "Ambient pressure"
+        },
+        "reactor_configuration": "Modified glass reactor (78 mL)",
+        "measurement_method": "Gas chromatography (headspace analysis)",
+        "catalyst_performance": {
+            "activity": "TOF = 583 h-1 at 328 K",
+            "selectivity": "Not explicitly stated, but implied to be high (no CO formation)",
+            "stability": "Activity was almost maintained for the first three cycles"
+        }
+    },
+    {
+        "title": "Amine-Functionalized MIL-125 with Imbedded Palladium Nanoparticles as an Efficient Catalyst for Dehydrogenation of Formic Acid at Ambient Temperature",
+        "year": 2013,
+        "journal_name": "The Journal of Physical Chemistry C",
+        "corresponding_authors": [
+            {
+                "name": "Kohsuke Mori",
+                "address": "Division of Materials and Manufacturing Science, Graduate School of Engineering, Osaka University, 2-1 Yamadaoka, Suita, Osaka 565-0871, Japan"
+            },
+            {
+                "name": "Hiromi Yamashita",
+                "address": "Division of Materials and Manufacturing Science, Graduate School of Engineering, Osaka University, 2-1 Yamadaoka, Suita, Osaka 565-0871, Japan"
+            }
+        ],
+        "catalyst_name": "Pd-NH2-MIL-125",
+        "synthesis_method": "Photoassisted deposition method. 200 mg of powdered sample was suspended in 20 mL of distilled water and activated by ultrasound inside of a quartz vessel for 30 min. Then, 0.8 mL of aqueous solution PdCl2 (11.64 mM) was added, and the vessel was sealed with a rubber septum and bubbled with Ar gas for 30 min. The vessel was photoirradiated by a 100 W high-pressure mercury arc for 5 h. The product was recovered and washed with H2O by centrifugation and dried under vacuum. The dried powder was then reduced in H2 at 473 K for 4 h.",
+        "active_components": [
+            {
+                "element": "Pd",
+                "loading": "0.5 wt%"
+            }
+        ],
+        "promoters": [
+            "HCOONa"
+        ],
+        "support": "NH2-MIL-125 (amine-functionalized MIL-125)",
+        "heat_treatment": {
+            "temperature": "473 K",
+            "duration": "4 h",
+            "atmosphere": "H2"
+        },
+        "characterization": {
+            "techniques": [
+                "XRD",
+                "BET",
+                "UV-vis",
+                "FTIR",
+                "XAFS",
+                "TEM",
+                "EDX"
+            ],
+            "results": "Pd NPs were immobilized within the pores of metal organic frameworks. XRD patterns showed no loss of crystallinity. BET showed decreased surface area and pore volume. UV-vis confirmed Ti species. TEM images showed well-dispersed and small NPs are formed within NH2-MIL-125 with a mean diameter of 3.1 nm. XAFS confirmed the presence of Pd(0)."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "Not specified directly, 0.39 mL of HCOOH",
+            "other_additives": [
+                {
+                    "substance": "HCOONa",
+                    "concentration": "Not specified directly, 0.54 g"
+                }
+            ],
+            "temperature": "305 K",
+            "pressure": "Ambient pressure (Ar atmosphere)"
+        },
+        "reactor_configuration": "Pyrex reaction vessel (30 cm\u00b3)",
+        "measurement_method": "Gas chromatography (Shimadzu GC14B equipped with an MSS A column (H2) and Shimadzu GC (CO2))",
+        "catalyst_performance": {
+            "activity": "TOF = 214 h-1 at 305 K",
+            "selectivity": "CO concentration during the dehydration reaction never exceeded 5 ppm.",
+            "stability": "The catalyst can be reused after the reaction because the structure of the catalysts is preserved. Leaching of the active components into the reaction solution was not confirmed."
+        }
+    },
+    {
+        "title": "An efficient room temperature core-shell AgPd@MOF catalyst for hydrogen production from formic acid",
+        "year": 2015,
+        "journal_name": "Nanoscale",
+        "corresponding_authors": [
+            {
+                "name": "Junfa Zhu",
+                "address": "National Synchrotron Radiation Laboratory and Collaborative Innovation Center of Suzhou Nano Science and Technology, University of Science and Technology of China, Hefei 230029, P. R. China"
+            }
+        ],
+        "catalyst_name": "AgPd@MIL-100(Fe)",
+        "synthesis_method": "One-pot method. AgNO3, Pd(NO3)2 and MOF precursors (FeCl3 and H3BTC) were directly mixed in the reaction solution containing polyvinylpyrrolidone (PVP), N,N-dimethylformamide (DMF), and ethanol. AgNO3 and Pd(NO3)2 were first reduced to AgPd alloy NPs by DMF within 20 min at 140 \u00b0C. Subsequently, MIL-100(Fe) formed and spontaneously grew on the surface of the PVP-modified AgPd NPs.",
+        "active_components": [
+            {
+                "element": "Ag",
+                "loading": "Not specified, controlled by precursor ratio"
+            },
+            {
+                "element": "Pd",
+                "loading": "Not specified, controlled by precursor ratio"
+            }
+        ],
+        "promoters": [],
+        "support": "MIL-100(Fe)",
+        "heat_treatment": {
+            "temperature": "140 \u00b0C",
+            "duration": "12 h (reaction time)",
+            "atmosphere": "Not specified"
+        },
+        "characterization": {
+            "techniques": [
+                "SEM",
+                "TEM",
+                "HAADF-STEM",
+                "PXRD",
+                "UV-vis",
+                "EDX",
+                "N2 adsorption-desorption"
+            ],
+            "results": "Core-shell nanospherical structures with uniform size and shape. AgPd alloy NP core coated with a uniform MIL-100(Fe) shell. PXRD confirmed the formation of AgPd alloy and MIL-100(Fe). TEM and HAADF-STEM confirmed core-shell structure and elemental distribution. The size of the core-shell AgPd@MIL-100(Fe) NPs can be tuned from 100 nm to 250 nm. N2 adsorption confirmed porous nature."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "1 M",
+            "other_additives": [],
+            "temperature": "298 K",
+            "pressure": "Ambient pressure"
+        },
+        "reactor_configuration": "Not specified",
+        "measurement_method": "Gas chromatograph",
+        "catalyst_performance": {
+            "activity": "TOF = 58 h-1",
+            "selectivity": "Not explicitly stated, but implied to be high (no additives used)",
+            "stability": "Productivity of hydrogen remains almost unchanged after five runs"
+        }
+    },
+    {
+        "title": "A Ag-Pd alloy supported on an amine-functionalized UiO-66 as an efficient synergetic catalyst for the dehydrogenation of formic acid at room temperature",
+        "year": 2016,
+        "journal_name": "Catalysis Science & Technology",
+        "corresponding_authors": [
+            {
+                "name": "Cheng Feng",
+                "address": "College of Science, Agricultural University of Hebei, Baoding 071001, Hebei Province, PR China"
+            },
+            {
+                "name": "Chun Wang",
+                "address": "College of Science, Agricultural University of Hebei, Baoding 071001, Hebei Province, PR China"
+            }
+        ],
+        "catalyst_name": "AgPd@NH2-UiO-66",
+        "synthesis_method": "Pre-coordination method. Ag+ and PdCl42- were immobilized into the pores of NH2-UiO-66 through the coordination or electrostatic interaction with the amino groups in the MOF. After reduction with sodium borohydride, the Ag-Pd alloy was anchored into the pores of NH2-UiO-66. Typically, for Ag1Pd4@NH2-UiO-66, 100 mg of NH2-UiO-66 was dispersed in 6.8 mL of 5.8 mmol L-1 silver nitrate (0.04 mmol) solution and stirred at room temperature for 1 h. Then, 28 mL of 5.7 mmol L-1 H2PdCl4 solution (0.16 mmol) was added and the obtained solution was stirred at room temperature for 4 h. The resulting mixture was then reduced using 2 mL NaBH4 (1 mol L-1) solution with vigorous stirring.",
+        "active_components": [
+            {
+                "element": "Ag",
+                "loading": "3.80 wt% (for Ag1Pd4)"
+            },
+            {
+                "element": "Pd",
+                "loading": "12.59 wt% (for Ag1Pd4)"
+            }
+        ],
+        "promoters": [],
+        "support": "NH2-UiO-66 (amine-functionalized UiO-66)",
+        "heat_treatment": {
+            "temperature": "Not applicable (reduction with NaBH4)",
+            "duration": "Not applicable",
+            "atmosphere": "Not applicable"
+        },
+        "characterization": {
+            "techniques": [
+                "TEM",
+                "XRD",
+                "XPS",
+                "ICP-AES",
+                "N2 adsorption-desorption"
+            ],
+            "results": "Highly dispersed Ag-Pd alloys deposited on an amine-functionalized UiO-66. TEM images show AgPd NPs are homogenously dispersed over the NH2-UiO-66 with a narrow particle size distribution of about 3-6 nm. PXRD confirmed the formation of AgPd alloy and the preservation of the MOF structure. XPS confirmed the presence of metallic Ag and Pd."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "1.25 mmol mL-1",
+            "other_additives": [],
+            "temperature": "25 \u00b0C (room temperature), 50 \u00b0C, and 80 \u00b0C",
+            "pressure": "Ambient pressure"
+        },
+        "reactor_configuration": "10 mL round-bottomed flask",
+        "measurement_method": "Gas burette (volume of released gas)",
+        "catalyst_performance": {
+            "activity": "TOF = 103 h-1 at 25 \u00b0C",
+            "selectivity": "100% H2 selectivity",
+            "stability": "Catalyst was isolated, washed, dried, and reused.  Catalyst still exhibits certain catalytic activity without significant loss in activity and selectivity even after the fifth run."
+        }
+    },
+    {
+        "title": "Controlling catalytic dehydrogenation of formic acid over low-cost transition metal-substituted AuPd nanoparticles immobilized by functionalized metal-organic frameworks at room temperature",
+        "year": 2016,
+        "journal_name": "Journal of Materials Chemistry A",
+        "corresponding_authors": [
+            {
+                "name": "Xiaojun Gu",
+                "address": "Inner Mongolia Key Laboratory of Coal Chemistry, School of Chemistry and Chemical Engineering, Inner Mongolia University, Hohhot 010021, China"
+            },
+            {
+                "name": "Haiquan Su",
+                "address": "Inner Mongolia Key Laboratory of Coal Chemistry, School of Chemistry and Chemical Engineering, Inner Mongolia University, Hohhot 010021, China"
+            }
+        ],
+        "catalyst_name": "Au0.28Pd0.47Co0.25/MIL-101-NH2",
+        "synthesis_method": "Impregnation-reduction process. HAuCl4\u00b74H2O (0.0115 g, 0.028 mmol), Na2PdCl4 (0.0138 g, 0.047 mmol) and Co(NO3)2\u00b76H2O (0.0073 g, 0.025 mmol) were dispersed in deionized H2O (4 mL). Then, activated MIL-101-NH2 (0.04 g) was added into the solution with stirring for 2 h. After that, the deionized H2O (2 mL) containing NaBH4 (0.06 g) was added into the above mixture, which was vigorously stirred in an Ar atmosphere for 2 h.",
+        "active_components": [
+            {
+                "element": "Au",
+                "loading": "Not specified, Au:Pd:Co = 0.28:0.47:0.25"
+            },
+            {
+                "element": "Pd",
+                "loading": "Not specified, Au:Pd:Co = 0.28:0.47:0.25"
+            },
+            {
+                "element": "Co",
+                "loading": "Not specified, Au:Pd:Co = 0.28:0.47:0.25"
+            }
+        ],
+        "promoters": [],
+        "support": "MIL-101-NH2",
+        "heat_treatment": {
+            "temperature": "Not applicable (reduction with NaBH4)",
+            "duration": "Not applicable",
+            "atmosphere": "Ar"
+        },
+        "characterization": {
+            "techniques": [
+                "TEM",
+                "HRTEM",
+                "HAADF-STEM",
+                "EDS",
+                "PXRD",
+                "XPS",
+                "ICP-AES",
+                "N2 adsorption-desorption"
+            ],
+            "results": "AuPdCo NPs were dispersed well and had an average size of 2.3 \u00b1 0.4 nm. PXRD confirmed alloy formation. XPS confirmed the presence of metallic Au and Pd, and Co in oxidation state. N2 adsorption showed decreased surface area, indicating pore occupation."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "Not specified directly, FA-SF aqueous solution",
+            "other_additives": [],
+            "temperature": "298 K (room temperature)",
+            "pressure": "Ambient pressure"
+        },
+        "reactor_configuration": "Round-bottomed flask",
+        "measurement_method": "Gas burette (volume of released gas)",
+        "catalyst_performance": {
+            "activity": "TOF = 347 h-1 at 298 K",
+            "selectivity": "100% H2 selectivity",
+            "stability": "Not explicitly stated, but implied to be stable due to the strong interaction between NPs and functionalized MOF"
+        }
+    },
+    {
+        "title": "High-quality hydrogen from the catalyzed decomposition of formic acid by Pd-Au/C and Pd-Ag/C",
+        "year": 2008,
+        "journal_name": "Chemical Communications",
+        "corresponding_authors": [
+            {
+                "name": "Wei Xing",
+                "address": "State Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, 5625 Renmin StreetChangchun, 130022, PR China."
+            }
+        ],
+        "catalyst_name": "Pd-Au/C",
+        "synthesis_method": "Not explicitly described in the provided text. The text mentions that Pd-Au/C and Pd-Ag/C alloy catalysts were synthesized, implying a method was used, but the details are not given.",
+        "active_components": [
+            {
+                "element": "Pd",
+                "loading": "20 wt%"
+            },
+            {
+                "element": "Au",
+                "loading": "Not specified, Pd:Au = 3:1 atomic ratio"
+            }
+        ],
+        "promoters": [
+            "CeO2(H2O)x"
+        ],
+        "support": "C",
+        "heat_treatment": {
+            "temperature": "Not specified",
+            "duration": "Not specified",
+            "atmosphere": "Not specified"
+        },
+        "characterization": {
+            "techniques": [
+                "TEM",
+                "FTIR",
+                "XRD"
+            ],
+            "results": "TEM showed that the addition of Ag and Au reduces the size of nanoparticles. Furthermore, the effect of Au is better than Ag. XRD showed alloy formation."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "9.94 M",
+            "other_additives": [
+                {
+                    "substance": "Sodium formate",
+                    "concentration": "3.33 M"
+                }
+            ],
+            "temperature": "365 K (primary), various temperatures for kinetic studies",
+            "pressure": "Not specified, assumed to be atmospheric pressure"
+        },
+        "reactor_configuration": "Not specified",
+        "measurement_method": "Volume of reforming gas (H2 + CO2)",
+        "catalyst_performance": {
+            "activity": "260 mL reforming gas in 2 h (30 mg catalyst), initial rate of 80 mL in first 5 min. TON = 27 h-1 after first 10 min.",
+            "selectivity": "Not explicitly stated, but implied to be high towards H2 (low CO)",
+            "stability": "Activity of Pd-Ag/C increases slightly with a rate of 1.59 x 10-3 ml min-1 g-1 h-1 during a 240 h test."
+        }
+    },
+    {
+        "title": "Available hydrogen from formic acid decomposed by rare earth elements promoted Pd-Au/C catalysts at low temperature",
+        "year": 2010,
+        "journal_name": "ChemSusChem",
+        "corresponding_authors": [
+            {
+                "name": "Wei Xing",
+                "address": "State Key Laboratory of Electroanalytical Chemistry, Changchun Institute of Applied Chemistry, Chinese Academy of Sciences, 5625 Renmin Street, Changchun, 130022 (P. R. China)"
+            }
+        ],
+        "catalyst_name": "Pd-Au-Dy/C",
+        "synthesis_method": "Not explicitly described in the provided text. The text mentions that Pd-Au/C was prepared, and REs (Dy, Eu, Ho) were used as promoters, implying a method was used, but the details are not given.",
+        "active_components": [
+            {
+                "element": "Pd",
+                "loading": "10 wt%"
+            },
+            {
+                "element": "Au",
+                "loading": "Not specified, Pd:Au = 1:1"
+            }
+        ],
+        "promoters": [
+            {
+                "element": "Dy",
+                "loading": "Not specified, but RE2O3 was 50 wt%"
+            }
+        ],
+        "support": "C",
+        "heat_treatment": {
+            "temperature": "Not specified",
+            "duration": "Not specified",
+            "atmosphere": "Not specified"
+        },
+        "characterization": {
+            "techniques": [
+                "TEM",
+                "XPS"
+            ],
+            "results": "TEM images and particle size distributions were measured. XPS was used to study the electronic effect."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "9.94 M",
+            "other_additives": [
+                {
+                    "substance": "Sodium formate",
+                    "concentration": "3.33 M"
+                }
+            ],
+            "temperature": "365 K (primary), various temperatures for kinetic studies",
+            "pressure": "Not specified, assumed to be atmospheric pressure"
+        },
+        "reactor_configuration": "Not specified",
+        "measurement_method": "Output rate of reforming gas (mL min-1 g-1 Pd)",
+        "catalyst_performance": {
+            "activity": "1198 mL min-1 g-1 Pd at 365 K, TOF = 269 \u00b1 202 h-1",
+            "selectivity": "Not explicitly stated, but implied to be high towards H2 (low CO)",
+            "stability": "Not explicitly stated"
+        }
+    },
+    {
+        "title": "Amine-functionalized sepiolite: Toward highly efficient palladium nanocatalyst for dehydrogenation of additive-free formic acid",
+        "year": 2019,
+        "journal_name": "International Journal of Hydrogen Energy",
+        "corresponding_authors": [
+            {
+                "name": "Zhiwu Liang",
+                "address": "Joint International Center for Carbon-dioxide Capture and Storage (ICCS), Provincial Key Laboratory for Cost-effective Utilization of Fossil Fuel Aimed at Reducing Carbon-dioxide Emissions, College of Chemistry and Chemical Engineering, Hunan University, Changsha, Hunan 410082, PR China"
+            }
+        ],
+        "catalyst_name": "Pd/A-SEP-NH2",
+        "synthesis_method": "Impregnation-reduction method.  A-SEP-NH2 (318 mg) and Na2PdCl4 aqueous solution (3.15 mL) were added into deionized water (40 mL). The above mixed solution is sonicated for 40 min and stirred vigorously for another 6 h. Then, the pH of the solution was adjusted to 8.6 by sodium carbonate (Na2CO3). After that, the Na2CO3 aqueous solution (0.05 M, 10 mL) containing NaBH4 (30 mg) was added dropwise (0.5 mL/min) to the solution under vigorous stirring. Finally, the resulting solution was reduced for 1 h.",
+        "active_components": [
+            {
+                "element": "Pd",
+                "loading": "3.5 wt%"
+            }
+        ],
+        "promoters": [],
+        "support": "A-SEP-NH2 (amine-functionalized sepiolite)",
+        "heat_treatment": {
+            "temperature": "Not applicable (reduction with NaBH4)",
+            "duration": "Not applicable",
+            "atmosphere": "Not applicable"
+        },
+        "characterization": {
+            "techniques": [
+                "HRTEM",
+                "XRD",
+                "FTIR",
+                "XPS",
+                "N2 adsorption-desorption",
+                "CO2-TPD",
+                "ICP-OES",
+                "Ninhydrin method"
+            ],
+            "results": "Very small Pd nanoparticles are uniformly dispersed on amine-functionalized sepiolite with a mean size of 2.8 nm. XRD patterns show low crystallinity of uniformly dispersed Pd NPs. FTIR and XPS confirm the presence of amine groups and their interaction with Pd. N2 adsorption shows a type-IV isotherm and H3-type hysteresis loop. CO2-TPD was used to measure basicity."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "1 M",
+            "other_additives": [],
+            "temperature": "30 \u00b0C (primary), up to 60 \u00b0C",
+            "pressure": "Ambient pressure"
+        },
+        "reactor_configuration": "Three-necked round-bottom flask (50 mL) connected to a gas burette",
+        "measurement_method": "Gas burette (volume of released gas)",
+        "catalyst_performance": {
+            "activity": "Initial TOF = 5587 h-1 at 60 \u00b0C",
+            "selectivity": "Nearly 100% selectivity towards CO2 and H2 (no CO detected)",
+            "stability": "The reused catalyst retained most of its inherent catalytic activities with 90% conversion of FA to CO2 and H2 after the second cycle."
+        }
+    },
+    {
+        "title": "An Efficient CoAuPd/C Catalyst for Hydrogen Generation from Formic Acid at Room Temperature",
+        "year": 2013,
+        "journal_name": "Angewandte Chemie International Edition",
+        "corresponding_authors": [
+            {
+                "name": "Jun-Min Yan",
+                "address": "Key Laboratory of Automobile Materials, Ministry of Education, Department of Materials Science and Engineering, Jilin University, Changchun 130022 (China)"
+            },
+            {
+                "name": "Qing Jiang",
+                "address": "Key Laboratory of Automobile Materials, Ministry of Education, Department of Materials Science and Engineering, Jilin University, Changchun 130022 (China)"
+            }
+        ],
+        "catalyst_name": "Co0.30Au0.35Pd0.35/C",
+        "synthesis_method": "Surfactant-free co-reduction method. 5.0 mL of aqueous solution containing CoCl2 (9.0 mm), Na2PdCl4 (10.5 mm), and HAuCl4 (10.5 mm) is mixed with 10.0 mL of aqueous solution containing the well-dispersed Vulcan XC-72 carbon (167.2 mg, 500 m2 g-1). Then, the fresh NaBH4 aqueous solution (5.0 mL, 300.0 mm) is added to the above mixture under magnetic stirring in argon (Ar) atmosphere. After 2 h, the product is obtained.",
+        "active_components": [
+            {
+                "element": "Co",
+                "loading": "Not specified, Co:Au:Pd = 0.30:0.35:0.35"
+            },
+            {
+                "element": "Au",
+                "loading": "Not specified, Co:Au:Pd = 0.30:0.35:0.35"
+            },
+            {
+                "element": "Pd",
+                "loading": "Not specified, Co:Au:Pd = 0.30:0.35:0.35"
+            }
+        ],
+        "promoters": [],
+        "support": "Vulcan XC-72 carbon",
+        "heat_treatment": {
+            "temperature": "Not applicable (room temperature synthesis)",
+            "duration": "Not applicable",
+            "atmosphere": "Argon"
+        },
+        "characterization": {
+            "techniques": [
+                "TEM",
+                "HRTEM",
+                "HAADF-STEM",
+                "EDX",
+                "XRD",
+                "XPS",
+                "ICP-AES"
+            ],
+            "results": "Well-dispersed NPs on carbon with an average particle size of about 20 nm. HRTEM reveals crystalline nature of the nanoparticles. XRD confirms the formation of fcc alloy structure. XPS confirms the presence of metallic Au, Pd and Co, with electron transfer from Co to Pd and Au."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "0.5 M",
+            "other_additives": [],
+            "temperature": "298 K",
+            "pressure": "Ambient atmosphere"
+        },
+        "reactor_configuration": "Not specified",
+        "measurement_method": "Not specified",
+        "catalyst_performance": {
+            "activity": "Initial TOF = 80 h-1, 91% conversion within 600 minutes",
+            "selectivity": "100% H2 selectivity (CO-free)",
+            "stability": "Not explicitly stated, but implied to be stable due to alloy formation"
+        }
+    },
+    {
+        "title": "Carbon supported trimetallic PdNiAg nanoparticles as highly active, selective and reusable catalyst in the formic acid decomposition",
+        "year": 2014,
+        "journal_name": "Applied Catalysis B: Environmental",
+        "corresponding_authors": [
+            {
+                "name": "Mehmet Zahmakiran",
+                "address": "Department of Chemistry, Science Faculty, Y\u00fcz\u00fcnc\u00fc Y\u0131l University, 65080 Van, Turkey"
+            },
+            {
+                "name": "Murat Kaya",
+                "address": "Department of Chemical Engineering and Applied Chemistry, Atilim University, 06836 Ankara, Turkey"
+            }
+        ],
+        "catalyst_name": "PdNiAg/C",
+        "synthesis_method": "Wet-impregnation followed by simultaneous reduction method. Typically, 5.0 mL aqueous solution containing Pd(NO3)2\u00b72H2O (10.5 mg, 39.4 \u00b5mol Pd), NiCl2\u00b76H2O (3.0mg, 12.7 \u00b5mol Ni), AgNO3 (2.3 mg, 13.1 \u00b5mol Ag) and activated carbon (140 mg) is mixed at 400 rpm for 2 h. Then, 1.0 mL aqueous solution of NaBH4 (45.4 mg, 1.1 mmol) was added to this mixture and the resulting solution was stirred for half an hour under air at room temperature.",
+        "active_components": [
+            {
+                "element": "Pd",
+                "loading": "1.62 wt%"
+            },
+            {
+                "element": "Ni",
+                "loading": "0.29 wt%"
+            },
+            {
+                "element": "Ag",
+                "loading": "0.71 wt%"
+            }
+        ],
+        "promoters": [
+            "HCOONa"
+        ],
+        "support": "Activated carbon",
+        "heat_treatment": {
+            "temperature": "100 \u00b0C",
+            "duration": "Not specified, drying after reduction",
+            "atmosphere": "Air (drying oven)"
+        },
+        "characterization": {
+            "techniques": [
+                "ICP-OES",
+                "PXRD",
+                "XPS",
+                "CTEM",
+                "HRTEM",
+                "STEM",
+                "STEM-EDX",
+                "HAADF-STEM"
+            ],
+            "results": "Well-dispersed 5.6 \u00b1 2.2 nm PdNiAg nanoparticles in alloy form on the surface of activated carbon. XRD shows peaks between those of pure Pd, Ni, and Ag, indicating alloy formation.  XPS confirms the presence of Pd, Ni, and Ag, with some surface oxidation. TEM confirms the size and distribution, while STEM-EDX and HAADF-STEM confirm the alloy composition."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "0.175 M",
+            "other_additives": [
+                {
+                    "substance": "HCOONa",
+                    "concentration": "0.175 M"
+                }
+            ],
+            "temperature": "50 \u00b0C (primary), 30-70 \u00b0C (for kinetic studies)",
+            "pressure": "Atmospheric pressure"
+        },
+        "reactor_configuration": "Jacketed one necked reaction flask (50.0 mL)",
+        "measurement_method": "Water displacement (gas burette)",
+        "catalyst_performance": {
+            "activity": "TOF = 85 h-1 at 50\u00b0C",
+            "selectivity": "~100% (CO-free H2 generation)",
+            "stability": ">94% activity retained after 5 reuses at 70\u00b0C"
+        }
+    },
+    {
+        "title": "Nitrogen-phosphorus co-functionalized reduced graphene oxide supported NiCoPd-CeOx nanoparticles as a highly efficient and stable catalyst for formic acid dehydrogenation",
+        "year": 2022,
+        "journal_name": "International Journal of Hydrogen Energy",
+        "corresponding_authors": [
+            {
+                "name": "Si-Jia Li",
+                "address": "Key Laboratory of Special Functional Materials for Ecological Environment and Information (Hebei University of Technology), Ministry of Education, Tianjin, 300130, China; Institute of Power Source and Ecomaterials Science, Hebei University of Technology, Tianjin, 300130, China; Manufacturing Innovation Center for Solid Waste Resource Utilization and Ecological Development (Hebei University of Technology), Hebei Province, Tianjin, 300130, China"
+            },
+            {
+                "name": "Jin-Sheng Liang",
+                "address": "Key Laboratory of Special Functional Materials for Ecological Environment and Information (Hebei University of Technology), Ministry of Education, Tianjin, 300130, China; Institute of Power Source and Ecomaterials Science, Hebei University of Technology, Tianjin, 300130, China; Manufacturing Innovation Center for Solid Waste Resource Utilization and Ecological Development (Hebei University of Technology), Hebei Province, Tianjin, 300130, China"
+            }
+        ],
+        "catalyst_name": "Ni0.2Co0.2Pd0.6-CeOx/NPG",
+        "synthesis_method": "Simple co-reduction method. Co(NO3)2 (0.02 M, 1.0 mL), NiCl2 (0.02 M, 1.0 mL), Na2PdCl4 (0.02 M, 3.0 mL) and Ce(NO3)3\u00b76H2O (10.0 mg) were added into the GO aqueous solution (9.8 mg/mL, 4.0 mL) with sonicating for 10 min at room temperature. And then, APTS (0.4 mL) and NaH2PO4\u00b72H2O (50.0 mg) were added into the above mixture with magnetic stirring for 5 min. Finally, the resulting mixture was reduced by NaBH4 (40.0 mg) and stirred for 15 min.",
+        "active_components": [
+            {
+                "element": "Ni",
+                "loading": "Not specified, Ni:Co:Pd = 0.2:0.2:0.6"
+            },
+            {
+                "element": "Co",
+                "loading": "Not specified, Ni:Co:Pd = 0.2:0.2:0.6"
+            },
+            {
+                "element": "Pd",
+                "loading": "Not specified, Ni:Co:Pd = 0.2:0.2:0.6"
+            },
+            {
+                "element": "CeOx",
+                "loading": "Not specified"
+            }
+        ],
+        "promoters": [],
+        "support": "NPG (nitrogen-phosphorus co-functionalized rGO)",
+        "heat_treatment": {
+            "temperature": "Not applicable (room temperature synthesis)",
+            "duration": "Not applicable",
+            "atmosphere": "Not applicable"
+        },
+        "characterization": {
+            "techniques": [
+                "TEM",
+                "HRTEM",
+                "HAADF-STEM",
+                "EDS",
+                "XRD",
+                "XPS",
+                "FTIR",
+                "Raman",
+                "UV-Vis",
+                "N2 adsorption-desorption",
+                "CO2-TPD",
+                "ICP-OES"
+            ],
+            "results": "Ultrafine NiCoPd-CeOx NPs with a mean size of 1.2 nm are highly dispersed on NPG substrate. XRD shows low crystallinity. XPS confirms the presence of Ni, Co, Pd, Ce, N, and P, and suggests electron transfer between the components. FTIR and Raman confirm the successful functionalization of rGO. N2 adsorption shows type-IV isotherm. CO2-TPD was used to measure basicity."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "1.0 M",
+            "other_additives": [],
+            "temperature": "303 K (primary), up to 333 K",
+            "pressure": "Ambient pressure"
+        },
+        "reactor_configuration": "Two-necked round-bottom flask",
+        "measurement_method": "Gas burette (volume of released gas)",
+        "catalyst_performance": {
+            "activity": "TOF = 6506.8 mol H2 mol Pd-1 h-1 at 303 K, Ea = 17.17 kJ mol-1",
+            "selectivity": "100% H2 selectivity",
+            "stability": "Excellent stability over 10th run with 100% conversion and 100% H2 selectivity"
+        }
+    },
+    {
+        "title": "Ultrafine Pd nanoparticles on amine-functionalized carbon nanotubes for hydrogen production from formic acid",
+        "year": 2021,
+        "journal_name": "Journal of Catalysis",
+        "corresponding_authors": [
+            {
+                "name": "Do Heui Kim",
+                "address": "School of Chemical and Biological Engineering, Institute of Chemical Processes, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea"
+            }
+        ],
+        "catalyst_name": "Pd/NH2-CNT",
+        "synthesis_method": "Conventional chemical reduction method using NaBH4. 0.5 g of CNTs was dispersed in 150 mL water, and 1 g of Cit and 0.6 mL of APTES were added to the solution. The mixture was sonicated for 10 min and stirred for 0.5 h at 1000 rpm to disperse CNTs. Subsequently, 5 mL of 0.05 M H2PdCl4 was added to the solution. After an additional 0.5 h stirring at 1000 rpm, a NaBH4 solution (0.15 g NaBH4 in 30 mL of Milli-Q water) was introduced dropwise. The resulting suspension was stirred for 0.5 h to fully reduce Pd ions. Subsequently, the catalyst was washed using 4 L of Milli-Q water and dried for 16 h in an oven at 105 \u00b0C.",
+        "active_components": [
+            {
+                "element": "Pd",
+                "loading": "Not specified, determined by ICP-AES"
+            }
+        ],
+        "promoters": [],
+        "support": "Amine-functionalized carbon nanotubes (NH2-CNTs)",
+        "heat_treatment": {
+            "temperature": "Not applicable (room temperature synthesis)",
+            "duration": "Not applicable",
+            "atmosphere": "Not applicable"
+        },
+        "characterization": {
+            "techniques": [
+                "TEM",
+                "HAADF-STEM",
+                "EDS",
+                "CO chemisorption",
+                "XPS",
+                "XRD",
+                "FT-IR"
+            ],
+            "results": "Ultrafine Pd nanoparticles with an average size of 1.76 nm were successfully impregnated on amine-functionalized CNTs. XPS confirmed the presence of amine functional groups and their interaction with Pd. TEM and HAADF-STEM confirmed the size and distribution of Pd NPs. EDS mapping confirmed the presence of C, N, Si, and Pd."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "0.5 M",
+            "other_additives": [
+                {
+                    "substance": "Sodium formate (SF)",
+                    "concentration": "0, 0.5, 1, 2, 3 M"
+                }
+            ],
+            "temperature": "30 \u00b0C (primary), up to 50 \u00b0C",
+            "pressure": "Ambient pressure"
+        },
+        "reactor_configuration": "Two-necked reactor",
+        "measurement_method": "Burette filled with mineral oil (volume of released gas)",
+        "catalyst_performance": {
+            "activity": "TOF = 2560 h-1 at 30 \u00b0C, 8137 h-1 at 50\u00b0C (with 0.5 M FA + 2 M SF)",
+            "selectivity": "Not explicitly stated, but implied to be high towards H2 (no CO detected)",
+            "stability": "Catalytic activity was considerably diminished just after the second injection of the FA, and furthermore, the reaction was completely terminated despite the presence of the reactant. No additional gas was produced after the third injection of FA, indicating that the catalyst was completely deactivated."
+        }
+    },
+    {
+        "title": "AgPd nanoparticles supported on MIL-101 as high performance catalysts for catalytic dehydrogenation of formic acid",
+        "year": 2014,
+        "journal_name": "Journal of Materials Chemistry A",
+        "corresponding_authors": [
+            {
+                "name": "Wei Luo",
+                "address": "College of Chemistry and Molecular Sciences, Wuhan University, Wuhan, Hubei 430072, P. R. China; Suzhou Institute of Wuhan University, Suzhou, Jiangsu, 215123, P. R. China; Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, Hubei, 430072, P. R. China"
+            },
+            {
+                "name": "Gongzhen Cheng",
+                "address": "College of Chemistry and Molecular Sciences, Wuhan University, Wuhan, Hubei 430072, P. R. China"
+            }
+        ],
+        "catalyst_name": "Ag20Pd80@MIL-101",
+        "synthesis_method": "Solution infiltration of activated MIL-101 with H2PdCl4 and AgNO3 at pH = 3.0, followed by treatment with NaBH4.",
+        "active_components": [
+            {
+                "element": "Ag",
+                "loading": "Not specified, Ag:Pd = 20:80"
+            },
+            {
+                "element": "Pd",
+                "loading": "Not specified, Ag:Pd = 20:80"
+            }
+        ],
+        "promoters": [],
+        "support": "MIL-101",
+        "heat_treatment": {
+            "temperature": "Not specified",
+            "duration": "Not specified",
+            "atmosphere": "Not specified"
+        },
+        "characterization": {
+            "techniques": [
+                "PXRD",
+                "TEM",
+                "EDX",
+                "N2 adsorption-desorption"
+            ],
+            "results": "Bimetallic AgPd nanoparticles were successfully immobilized into the metal-organic frameworks (MIL-101). TEM images show that the AgPd NPs are well dispersed, and encapsulated in the cages of the MIL-101. The mean diameter of AgPd NPs in AgPd@MIL-101 was in the range of 2.7 \u00b1 0.2 nm. PXRD confirmed alloy formation. N2 adsorption showed decreased surface area, indicating pore occupation."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "Not specified directly",
+            "other_additives": [
+                "Sodium formate"
+            ],
+            "temperature": "80 \u00b0C",
+            "pressure": "Not specified, assumed to be atmospheric pressure"
+        },
+        "reactor_configuration": "Not specified",
+        "measurement_method": "Not specified",
+        "catalyst_performance": {
+            "activity": "TOF = 848 h-1 at 80 \u00b0C",
+            "selectivity": "100% selectivity for hydrogen generation",
+            "stability": "No significant decrease in catalytic activity and no change in the hydrogen selectivity even after the fifth run."
+        }
+    },
+    {
+        "title": "Efficient Subnanometric Gold-Catalyzed Hydrogen Generation via Formic Acid Decomposition under Ambient Conditions",
+        "year": 2012,
+        "journal_name": "Journal of the American Chemical Society",
+        "corresponding_authors": [
+            {
+                "name": "Yong Cao",
+                "address": "Department of Chemistry, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Fudan University, Shanghai 200433, P. R. China"
+            },
+            {
+                "name": "He-Yong He",
+                "address": "Department of Chemistry, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Fudan University, Shanghai 200433, P. R. China"
+            },
+            {
+                "name": "Kang-Nian Fan",
+                "address": "Department of Chemistry, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Fudan University, Shanghai 200433, P. R. China"
+            }
+        ],
+        "catalyst_name": "Au/ZrO2 NCs",
+        "synthesis_method": "Modified deposition-precipitation (DP) procedure. An appropriate amount of ZrO2 powder was added to the aqueous solution of HAuCl4 (0.25 mM), and the pH of which was adjusted to 9.0 with 0.25 M NH4OH under stirring. The aqueous dispersion was stirred for 8 h at 25 \u00b0C, while the pH was maintained constantly on 9.0 and then filtered. Extensive washing with deionized water was then followed until it was free of chloride ions. The sample was dried under vacuum at 25 \u00b0C for 12 h, followed by a careful reduction with a stream of 5 vol% H2/Ar at 250 \u00b0C for 2 h.",
+        "active_components": [
+            {
+                "element": "Au",
+                "loading": "0.8 wt%"
+            }
+        ],
+        "promoters": [],
+        "support": "ZrO2",
+        "heat_treatment": {
+            "temperature": "250 \u00b0C",
+            "duration": "2 h",
+            "atmosphere": "5 vol% H2/Ar"
+        },
+        "characterization": {
+            "techniques": [
+                "TEM",
+                "XPS",
+                "DRIFT",
+                "CO titration",
+                "EXAFS"
+            ],
+            "results": "TEM-invisible Au species (subnanometric gold clusters). XPS confirmed metallic gold. DRIFT of adsorbed CO confirmed the absence of cationic Au species. CO titration at -116\u00b0C estimated the Au cluster size to be approximately 0.8 nm. EXAFS measurements were inconclusive due to poor contrast between gold and ZrO2."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "Not specified, 5:2 FA-NEt3 azeotropic mixture (TEAF)",
+            "other_additives": [
+                {
+                    "substance": "NEt3",
+                    "concentration": "Not specified, 5:2 FA-NEt3 azeotropic mixture (TEAF)"
+                }
+            ],
+            "temperature": "40 \u00b0C (primary), 25 \u00b0C, 50 \u00b0C",
+            "pressure": "Ambient pressure (open system), up to 5.3 MPa (closed system), 2.0 MPa (continuous flow)"
+        },
+        "reactor_configuration": "Not specified (open system), closed vessel, high-pressure autoclave (continuous flow)",
+        "measurement_method": "Not specified (gas evolution), continuous H2 production measured with a mass flow controller",
+        "catalyst_performance": {
+            "activity": "Initial TOF up to 923 h-1 at 40 \u00b0C, 252 h-1 at 25\u00b0C.  Continuous H2 production at 50\u00b0C under 2.0 MPa: 148 L H2 h-1 gAu-1",
+            "selectivity": "Ultratrace level of CO (<5 ppm)",
+            "stability": "Recoverable by simple filtration and proven robust even after seven reuses."
+        }
+    },
+    {
+        "title": "AgPd nanoparticles supported on MIL-101 as high performance catalysts for catalytic dehydrogenation of formic acid",
+        "year": 2014,
+        "journal_name": "Journal of Materials Chemistry A",
+        "corresponding_authors": [
+            {
+                "name": "Wei Luo",
+                "address": "College of Chemistry and Molecular Sciences, Wuhan University, Wuhan, Hubei 430072, P. R. China"
+            },
+            {
+                "name": "Gongzhen Cheng",
+                "address": "College of Chemistry and Molecular Sciences, Wuhan University, Wuhan, Hubei 430072, P. R. China"
+            }
+        ],
+        "catalyst_name": "Ag20Pd80@MIL-101",
+        "synthesis_method": "Solution infiltration of activated MIL-101 with H2PdCl4 and AgNO3 at pH = 3.0, followed by treatment with NaBH4.",
+        "active_components": [
+            {
+                "element": "Ag",
+                "loading": "Not specified, Ag:Pd = 20:80"
+            },
+            {
+                "element": "Pd",
+                "loading": "Not specified, Ag:Pd = 20:80"
+            }
+        ],
+        "promoters": [],
+        "support": "MIL-101",
+        "heat_treatment": {
+            "temperature": "Not specified",
+            "duration": "Not specified",
+            "atmosphere": "Not specified"
+        },
+        "characterization": {
+            "techniques": [
+                "PXRD",
+                "TEM",
+                "EDX",
+                "N2 adsorption-desorption"
+            ],
+            "results": "Bimetallic AgPd nanoparticles were successfully immobilized into the metal-organic frameworks (MIL-101). TEM images show that the AgPd NPs are well dispersed, and encapsulated in the cages of the MIL-101. The mean diameter of AgPd NPs in AgPd@MIL-101 was in the range of 2.7 \u00b1 0.2 nm. PXRD confirmed alloy formation. N2 adsorption showed decreased surface area, indicating pore occupation."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "Not specified directly",
+            "other_additives": [
+                "Sodium formate"
+            ],
+            "temperature": "80 \u00b0C",
+            "pressure": "Not specified, assumed to be atmospheric pressure"
+        },
+        "reactor_configuration": "Not specified",
+        "measurement_method": "Not specified",
+        "catalyst_performance": {
+            "activity": "TOF = 848 h-1 at 80 \u00b0C",
+            "selectivity": "100% selectivity for hydrogen generation",
+            "stability": "No significant decrease in catalytic activity and no change in the hydrogen selectivity even after the fifth run."
+        }
+    },
+    {
+        "title": "Tandem Nitrogen Functionalization of Porous Carbon: Toward Immobilizing Highly Active Palladium Nanoclusters for Dehydrogenation of Formic Acid",
+        "year": 2017,
+        "journal_name": "ACS Catalysis",
+        "corresponding_authors": [
+            {
+                "name": "Qiang Xu",
+                "address": "Research Institute of Electrochemical Energy, National Institute of Advanced Industrial Science and Technology (AIST), Ikeda, Osaka 563-8577, Japan; Toyama National College of Technology, 13, Hongo-machi, Toyama 939-8630, Japan; Inorganic Functional Materials Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Nagoya, Aichi 463-8560, Japan; Research Institute of Energy Frontier, National Institute of Advanced Industrial Science and Technology (AIST), Tsukuba Central 5-1, 1-1-1 Higashi, Tsukuba, Ibaraki 305-8565, Japan; Pacific Northwest National Laboratory, 902 Battelle Boulevard, Richland, Washington 99352, United States"
+            }
+        ],
+        "catalyst_name": "Pd/N-MSC-30-two-175",
+        "synthesis_method": "Wet chemical impregnation and reduction method. N-MSC-30 was prepared by a tandem low-temperature heat-treatment approach. MSC-30 was thermally treated with urea at 300\u00b0C (denoted as N-MSC-30-one), followed by a second urea-treatment process at different temperatures (150, 175, 200, 250, and 300\u00b0C) to yield N-MSC-30 supports (denoted as N-MSC-30-two-T). 100 mg of the as-prepared support materials were dispersed into 5 mL H2O by sonication and then mixed with 0.6 mL of K2PdCl4 aqueous solution (0.1 M) to form a homogeneous dispersion. Subsequently, 30 mg NaBH4 in 1 mL of 2 M NaOH was added into the above dispersion.",
+        "active_components": [
+            {
+                "element": "Pd",
+                "loading": "Not specified, determined by ICP-OES"
+            }
+        ],
+        "promoters": [],
+        "support": "N-MSC-30-two-175 (Nitrogen-functionalized MSC-30 prepared by a tandem low-temperature heat-treatment approach)",
+        "heat_treatment": {
+            "temperature": "Two-step heat treatment with urea: 300\u00b0C (first step), then 150, 175, 200, 250, or 300\u00b0C (second step)",
+            "duration": "Not specified",
+            "atmosphere": "Not specified"
+        },
+        "characterization": {
+            "techniques": [
+                "XRD",
+                "XPS",
+                "TEM",
+                "HAADF-STEM",
+                "N2 sorption",
+                "ICP-OES"
+            ],
+            "results": "Highly dispersed Pd nanoclusters (NCs) with a mean size of 1.4 nm. XRD showed only one weak and broad diffraction peak for Pd, indicating the absence of large-sized Pd particles. XPS confirmed the presence of N and Pd, with two different nitrogen species (amine/amide and pyridinic N). N2 sorption measurements showed high surface area and accessible porosity."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "Not specified, FA-SF aqueous solution",
+            "other_additives": [
+                {
+                    "substance": "Sodium formate (SF)",
+                    "concentration": "FA:SF = 1:2.5"
+                }
+            ],
+            "temperature": "333 K (60\u00b0C)",
+            "pressure": "Not specified, assumed to be atmospheric pressure"
+        },
+        "reactor_configuration": "Not specified",
+        "measurement_method": "Volumetrically measured amount of gas released during the reaction",
+        "catalyst_performance": {
+            "activity": "TOF = 8414 h-1 at 333 K",
+            "selectivity": "Not explicitly stated, but implied to be high towards H2 (no CO mentioned)",
+            "stability": "No obvious aggregation of Pd NCs was observed and no loss in catalytic activity, even after 15 cycles."
+        }
+    },
+    {
+        "title": "B-Doped Pd Catalyst: Boosting Room-Temperature Hydrogen Production from Formic Acid-Formate Solutions",
+        "year": 2014,
+        "journal_name": "Journal of the American Chemical Society",
+        "corresponding_authors": [
+            {
+                "name": "Wen-Bin Cai",
+                "address": "Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Collaborative Innovation Center of Chemistry for Energy Materials, Department of Chemistry, Fudan University, Shanghai 200433, China"
+            }
+        ],
+        "catalyst_name": "Pd-B/C",
+        "synthesis_method": "Wet chemical reduction. Pd/C and Pd-B/C catalysts with a Pd loading of 5 wt% were synthesized through wet chemical reduction of NaBH4 and dimethylamine borane (DMAB), respectively.",
+        "active_components": [
+            {
+                "element": "Pd",
+                "loading": "5 wt%"
+            }
+        ],
+        "promoters": [
+            "B"
+        ],
+        "support": "C",
+        "heat_treatment": {
+            "temperature": "Not applicable",
+            "duration": "Not applicable",
+            "atmosphere": "Not applicable"
+        },
+        "characterization": {
+            "techniques": [
+                "TEM",
+                "ICP-AES",
+                "XPS",
+                "ATR-IR"
+            ],
+            "results": "TEM images show Pd nanoparticles. ICP-AES results show that ca. 6 at.% boron is incorporated into Pd-B/C, while the boron content in Pd/C-NaBH4 is less than 3 at.%. XPS shows a slight upshift of Pd0 3d5/2 core-level binding energy for Pd-B/C. ATR-IR was used to monitor dynamically the interfacial species on Pd-B/C or Pd/C in FA-SF solutions."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "1.1 M",
+            "other_additives": [
+                {
+                    "substance": "Sodium formate (SF)",
+                    "concentration": "0.8 M"
+                }
+            ],
+            "temperature": "30 \u00b0C",
+            "pressure": "Ambient atmosphere"
+        },
+        "reactor_configuration": "Not specified",
+        "measurement_method": "Gas evolution",
+        "catalyst_performance": {
+            "activity": "TOF = 1184 h-1 (initial 15 min)",
+            "selectivity": "Not explicitly stated, but implied to be high towards H2 (no CO mentioned)",
+            "stability": "Not explicitly stated"
+        }
+    },
+    {
+        "title": "Dehydrogenation of Formic Acid at Room Temperature: Boosting Palladium Nanoparticle Efficiency by Coupling with Pyridinic-Nitrogen-Doped Carbon",
+        "year": 2016,
+        "journal_name": "Angewandte Chemie International Edition",
+        "corresponding_authors": [
+            {
+                "name": "Yong Cao",
+                "address": "Department of Chemistry, Shanghai Key Laboratory of Molecular Catalysis and Innovative Materials, Collaborative Innovation Center of Chemistry for Energy Materials, Fudan University, Shanghai 200433 (P.R. China)"
+            },
+            {
+                "name": "Fu-Qiang Huang",
+                "address": "State Key Laboratory of High Performance Ceramics and Superfine Microstructures, Shanghai Institute of Ceramics, Chinese Academy of Sciences, Shanghai 200050 (P.R. China)"
+            }
+        ],
+        "catalyst_name": "Pd/CN0.25",
+        "synthesis_method": "Wet chemical reduction. The obtained materials (CNx, where x denotes the N/C molar ratio) were then loaded with approximately 10 wt% of Pd by a wet chemical reduction method.",
+        "active_components": [
+            {
+                "element": "Pd",
+                "loading": "10 wt%"
+            }
+        ],
+        "promoters": [],
+        "support": "CN0.25 (Pyridinic-N-doped carbon)",
+        "heat_treatment": {
+            "temperature": "Not specified",
+            "duration": "Not specified",
+            "atmosphere": "Not specified"
+        },
+        "characterization": {
+            "techniques": [
+                "TEM",
+                "XPS",
+                "ATR-IR"
+            ],
+            "results": "TEM images demonstrate that Pd NPs with an average size of 3.2 \u00b1 0.3 nm were uniformly dispersed on the N-doped carbon supports. XPS results show that Pd had a negative charge, this indicates a possible electron transfer from CNx to Pd NPs. ATR-IR was used to monitor the adsorbed linear mode of CO on Pd/CNx."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "1 M",
+            "other_additives": [],
+            "temperature": "25 \u00b0C",
+            "pressure": "Ambient pressure"
+        },
+        "reactor_configuration": "Not specified",
+        "measurement_method": "Not specified",
+        "catalyst_performance": {
+            "activity": "TOF = 3625 h-1",
+            "selectivity": "Not explicitly stated, but implied to be high towards H2 (no CO mentioned)",
+            "stability": "Not explicitly stated"
+        }
+    },
+    {
+        "title": "Immobilizing Highly Catalytically Active Noble Metal Nanoparticles on Reduced Graphene Oxide: A Non-Noble Metal Sacrificial Approach",
+        "year": 2015,
+        "journal_name": "Journal of the American Chemical Society",
+        "corresponding_authors": [
+            {
+                "name": "Qiang Xu",
+                "address": "National Institute of Advanced Industrial Science and Technology (AIST), Ikeda, Osaka 563-8577, Japan; Toyama National College of Technology, 13, Hongo-machi, Toyama, 939-8630, Japan"
+            }
+        ],
+        "catalyst_name": "(Co6)Ag0.1Pd0.9/RGO",
+        "synthesis_method": "Non-noble metal sacrificial approach (NNMSA). The reaction between Co(CH3COOH)2 and NaBH4 in a molar ratio of 1:3.7 under an ambient condition for 2 h results in the formation of a black precipitation. The reaction between NaBH4 and the mixed solution of Co(CH3COOH)2, AgNO3, and K2PdCl4 in a molar ratio of 6:0.1:0.9 also produces a black precipitation in the presence of GO.  The Co3(BO3)2 co-precipitated with AgPd nanoparticles and subsequently sacrificed by H3PO4 etching.",
+        "active_components": [
+            {
+                "element": "Ag",
+                "loading": "Not specified, Ag:Pd = 0.1:0.9"
+            },
+            {
+                "element": "Pd",
+                "loading": "Not specified, Ag:Pd = 0.1:0.9"
+            }
+        ],
+        "promoters": [],
+        "support": "RGO (reduced graphene oxide)",
+        "heat_treatment": {
+            "temperature": "Not applicable (room temperature synthesis)",
+            "duration": "Not applicable",
+            "atmosphere": "Not applicable"
+        },
+        "characterization": {
+            "techniques": [
+                "XRD",
+                "TEM",
+                "ICP-OES",
+                "XPS",
+                "N2 adsorption-desorption"
+            ],
+            "results": "Highly dispersed AgPd NPs (2-4.5 nm) on RGO. XRD shows broad peaks, indicating small particle size and alloy formation. XPS confirms the presence of metallic Ag and Pd. N2 adsorption shows a type-IV curve with a hysteresis loop, indicating mesopores between RGO layers. The specific surface area is 310 m2/g."
+        },
+        "reaction_conditions": {
+            "formic_acid_concentration": "Not specified directly, FA-sodium formate (SF) system",
+            "other_additives": [
+                {
+                    "substance": "Sodium formate (SF)",
+                    "concentration": "FA:SF = 1:2.5"
+                }
+            ],
+            "temperature": "323 K (50 \u00b0C)",
+            "pressure": "Not specified, assumed to be atmospheric pressure"
+        },
+        "reactor_configuration": "Not specified",
+        "measurement_method": "Not specified",
+        "catalyst_performance": {
+            "activity": "TOF = 2756 \u00b1 180 h-1 at 323 K",
+            "selectivity": "Not explicitly stated, but implied to be high towards H2 (no CO mentioned)",
+            "stability": "Activity kept almost unchanged under the same reaction condition over 5 cycles."
+        }
+    }
+]
